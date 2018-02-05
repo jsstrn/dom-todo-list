@@ -15,3 +15,6 @@ Instructions:
 
 Bonus:
 - when you are tired of refreshing your browser with every change, you can install this vscode plugin to do auto reload: https://marketplace.visualstudio.com/items?itemName=ritwickdey.LiveServer
+
+---
+Copyright (c) 2018 ThoughtWorks. For personal use and training purposes only; not to be copied or distributed without further approval.
