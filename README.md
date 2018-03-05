@@ -10,7 +10,7 @@ Instructions:
  	- [ ] Create a css class (e.g. `.done`) that, when applied on an element, adds the `text-decoration: line-through` property
  	- [ ] Add a click listener to the `<li></li>` elements and a callback function that adds the css class that you created in the previous step
  	- [ ] Update the callback function so that clicking on the list element toggles (i.e. add/remove) the `.done` css class
- 	- [ ] Add a `<input>` HTML element and a `<button>Add Todo</button>` HTML element that displays the user's input as part of the todo list when the button is clicked
+ 	- [ ] Add a `<input>` HTML element and a `<button>Add Todo</button>` HTML element. Add a 'click' event listener to the button and callback function that adds the value of the `<input>` element as a new todo in the `ul#todo-list` (follow the 3 steps for creating and appending a new DOM element)
  	- [ ] Add css styling and make this a nice todo list that you can show off!
 	- [ ] Bonus: Allow user to create a todo when s/he presses the 'Enter' key
 
