@@ -1,1 +1,6 @@
-tasks = ["buy milk", "eat dinner", "nail javascript"]
+const tasks = [
+	'buy milk',
+	'eat dinner',
+	'nail javascript',
+	'give feedback',
+];
