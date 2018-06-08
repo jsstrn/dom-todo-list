@@ -22,8 +22,10 @@
 - Add a `<input>` HTML element and a `<button>Add Todo</button>` HTML element.
 
 - Add a 'click' event listener to the button that adds the value of the
-  `<input>` element as a new todo in the `ul#todo-list` (follow the 3 steps
-  for creating and appending a new DOM element)
+  `<input>` element as a new todo in the `ul#todo-list` (follow the 3 steps for
+  creating and appending a new DOM element - (i) `createElement`, (ii) change
+  any attributes if necessary, (iii) use `appendChild` to append it to the
+  appropriate HTML element)
 
 - Add css styling and make this a nice todo list that you can show off!
 
