@@ -1,7 +1,5 @@
 # DOM Manipulation Lab: Todo List
 
-[See the solution here][solution].
-
 ## Tasks
 
 ### Displaying To-Do items in the list
@@ -32,5 +30,3 @@
 - Add css styling and make this a nice todo list that you can show off!
 
 - Bonus: Allow user to create a todo when they press the <kbd>Enter</kbd> key
-
-[solution]: https://github.com/thoughtworks-jumpstart/dom-todo-list/tree/solution
